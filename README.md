@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hi I'm Mikaeil 👋
 
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=mikaeileghbal)](https://github.com/anuraghazra/github-readme-stats)
+###### I love programming and creating useful and joyful apps.
 
 <!--
 **mikaeileghbal/mikaeileghbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
