@@ -1,4 +1,7 @@
 ![](https://github.com/mikaeileghbal/mikaeileghbal/blob/main/laptop.jpg)
+
+<img src="https://github.com/mikaeileghbal/mikaeileghbal/blob/main/laptop.jpg" width="250px" style="float:right" />
+
 ### Hi, I'm Mikaeil 👋
 
 <a href="https://www.linkedin.com/in/mikaeil-eghbal/" target="_blank" style="background-color:rgb(0,120,171); padding:8px 12px;">LinkedIn</a>
