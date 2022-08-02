@@ -1,5 +1,7 @@
 ![](https://github.com/mikaeileghbal/mikaeileghbal/blob/main/laptop.jpg)
-# Hi I'm Mikaeil 👋
+# Hi, I'm Mikaeil 👋
+
+<a href="https://www.linkedin.com/in/mikaeil-eghbal/" target="_blank" style="background-color:rgb(0,120,171); padding:8px 12px;">LinkedIn</a>
 
 ###### I love programming and creating useful and joyful apps.
 
