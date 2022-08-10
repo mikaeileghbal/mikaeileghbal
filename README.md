@@ -1,5 +1,3 @@
-![](https://github.com/mikaeileghbal/mikaeileghbal/blob/main/laptop.jpg)
-
 <img src="https://github.com/mikaeileghbal/mikaeileghbal/blob/main/laptop.jpg" width="250px" style="float:right" />
 
 ### Hi, I'm Mikaeil 👋
