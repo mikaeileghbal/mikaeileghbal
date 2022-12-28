@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/mikaeil-eghbal/" target="_blank" style="background-color:rgb(0,120,171); padding:8px 12px;">LinkedIn</a>
 
 ###### I love programming and creating useful and joyful apps.
-###### I use JavaScript, React, Next, Redux, Zustand, ReactQuery, MongoDB and MySql.
+###### I use JavaScript, React, Next, Redux, Zustand, React Query, React Router, MongoDB and MySql.
 ##### Languages I speak:
 - English
 - Turkish
