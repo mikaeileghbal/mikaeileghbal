@@ -2,7 +2,7 @@
 
 ### Hi, I'm Mikaeil 👋
 
-<a href="https://www.linkedin.com/in/mikaeil-eghbal/" target="_blank" style="background-color:rgb(0,120,171); padding:8px 12px;">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mikaeil-eghbal/" target="_blank" style="background-color:rgb(0,120,171); padding:8px 12px;"><img src="https://github.com/mikaeileghbal/mikaeileghbal/blob/main/linkedin-logo.jpg" width="100px" style="float:right" /></a>
 
 ###### I love programming and creating useful and joyful apps.
 ###### I use JavaScript, React, Next, Redux, Zustand, React Query, React Router, MongoDB and MySql.
